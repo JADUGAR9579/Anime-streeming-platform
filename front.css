@@ -66,3 +66,54 @@
     -webkit-backdrop-filter: blur(3px);
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
+
+
+.this-week-special {
+    background-color: #080808;
+}
+.stand-line{
+    background-image: linear-gradient(to bottom left,  #f803fc, #0320fc);
+}
+.this-week-special-attack-on-titan{
+    background-image: url("https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10701949_b_v9_ah.jpg");
+    height: 300px;
+    background-size: cover;
+    border-radius: 15px;
+    margin:auto;
+    margin-bottom: 20px;
+    
+}
+.text-thumnail{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.text-thumnail-span{
+    color: yellow;
+    padding-left: 10px;
+}
+.this-week-special-one-piece{
+    background-image: url("https://i.redd.it/nhc0eep3f6n71.jpg");
+    height: 300px;
+    background-size: cover;
+    border-radius: 15px;
+    margin:auto;
+    margin-bottom: 20px;
+}
+.this-week-special-Naruto-Shippuden {
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Naruto_Shippuden_the_Movie_Bonds.jpg/250px-Naruto_Shippuden_the_Movie_Bonds.jpg");
+    height: 300px;
+    background-size: cover;
+    border-radius: 15px;
+    margin:auto;
+    margin-bottom: 20px;
+}
+.this-week-special-Dragon-Ball{
+    background-image: url("https://m.media-amazon.com/images/S/pv-target-images/334f00b53cf3ef848ea7048b25711bc98e8236ce1685a096990c80d0965835ea.png");
+    height: 300px;
+    background-size: cover;
+    border-radius: 15px;
+    margin:auto;
+    margin-bottom: 20px;
+}
