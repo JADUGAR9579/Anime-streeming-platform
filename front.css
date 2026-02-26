@@ -68,7 +68,7 @@
 }
 
 
-.this-week-special {
+.main-container{
     background-color: #080808;
 }
 .stand-line{
@@ -117,3 +117,60 @@
     margin:auto;
     margin-bottom: 20px;
 }
+
+
+#nish-button-1 {
+    background-color: #2d2e2d;
+    color: #ffffff;
+    font-family: Monospace;
+    height: 45px;
+    width: 130px;
+    border-style: none;
+    border-radius: 25px;
+    margin: 5px;
+}
+
+#nish-button-2 {
+    background-color: #2d2e2d;
+    color: #ffffff;
+    font-family: Monospace;
+    height: 45px;
+    width: 130px;
+    border-style: none;
+    border-radius: 25px;
+    margin: 5px;
+}
+
+#nish-button-3 {
+    background-color: #2d2e2d;
+    color: #ffffff;
+    font-family: Monospace;
+    height: 45px;
+    width: 130px;
+    border-style: none;
+    border-radius: 25px;
+    margin: 5px;
+}
+
+#nish-button-4 {
+    background-color: #2d2e2d;
+    color: #ffffff;
+    font-family: Monospace;
+    height: 45px;
+    width: 130px;
+    border-style: none;
+    border-radius: 25px;
+    margin: 5px;
+}
+
+#nish-button-5 {
+    background-color: #2d2e2d;
+    color: #ffffff;
+    font-family: Monospace;
+    height: 45px;
+    width: 130px;
+    border-style: none;
+    border-radius: 25px;
+    margin: 5px;
+}
+
