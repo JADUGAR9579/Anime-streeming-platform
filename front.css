@@ -174,3 +174,50 @@
     margin: 5px;
 }
 
+.BTN:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.anime:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+
+
+.thumnail-img-card{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.text-thumnail-img{
+    background-color: #2c2c2e;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Roboto;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.new-episodes-container{
+    background-color: #26212b;
+    margin: 15px;
+    border-radius: 15px;
+}
+.new-episodes-img{
+    height: 70px;
+    width: 110px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.new-ep{
+    background-image: linear-gradient(to left, #2a2538, #3f3169) ;
+    padding: 20px;
+    border-radius: 15px;
+}
+.new-ep-badge{
+    height: 35px;
+    width: 55px;
+    background-color: #4220a8;
+    border-radius: 30px;
+}
